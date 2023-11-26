@@ -10,4 +10,7 @@ print(full_name)
 print(len(first_name))
 print(len(surname))
 print(len(full_name))
-print(full_name.endswith('Walyemwa')) #endswith methods checks if a string ends with the passed string.
+# endswith methods checks if a string ends with the passed string.
+print(full_name.endswith('Walyemwa'))
+# endswith methods checks if a string ends with the passed string.
+print(full_name.endswith('Wangutusi'))
