@@ -1,3 +1,5 @@
+# functions are pieces of code that are built to make our code reusable.
+
 def check_age(age):
     if age < 18:
         print('oooops, you are below voting age.')
